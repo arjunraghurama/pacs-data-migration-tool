@@ -1,6 +1,10 @@
 # pacs-data-migration-tool
  This donet tool can be used to migrate dcm files from one PACS to another
 
+## Abstract 
+In medical domain software development we are often required to to some Poc using dicom servers.
+Re-creating the data can be hastle. So this tool can be used to copy data from one dicom server to another.
+
 ## Usage
 Run the make file
 ```bash
