@@ -18,8 +18,8 @@ dotnet PacsDataMigrationTool.dll
 
 ## Using Docker
 The same can be acheived through docker also.
-First build the code using make.
-Make changes to `appsettings.json` in bin directory
+First build the code using `make`.
+Make changes to `appsettings.json` in `bin` directory
 Then run 
 ```bash 
 docker-compose up
