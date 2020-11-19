@@ -2,7 +2,7 @@
  This donet tool can be used to migrate dcm files from one PACS to another
 
 # Status
-![Build](https://img.shields.io/github/workflow/status/arjunraghurama/pacs-data-migration-tool/CI%20pipeline)
+![Build](https://github.com/arjunraghurama/pacs-data-migration-tool/workflows/CI%20pipeline/badge.svg)
 
 ## Abstract 
 In medical domain software development we are often required to to some Poc using dicom servers.
