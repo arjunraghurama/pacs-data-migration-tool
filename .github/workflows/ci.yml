@@ -9,7 +9,7 @@ jobs:
 
     runs-on: ubuntu-latest
     env:
-      working-directory: ./pacs-data-migration-tool
+      working-directory: ./PacsDataMigrationTool
     steps:
     - uses: actions/checkout@v2
     - name: Setup .NET Core
