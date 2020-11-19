@@ -1,6 +1,8 @@
 # pacs-data-migration-tool
  This donet tool can be used to migrate dcm files from one PACS to another
 
+![Build](https://img.shields.io/github/workflow/status/arjunraghurama/pacs-data-migration-tool/CI%20pipeline)
+
 ## Abstract 
 In medical domain software development we are often required to to some Poc using dicom servers.
 Re-creating the data can be hastle. So this tool can be used to copy data from one dicom server to another.
