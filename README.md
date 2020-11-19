@@ -1,7 +1,7 @@
 # pacs-data-migration-tool
  This donet tool can be used to migrate dcm files from one PACS to another
 
-# Status
+## Status
 ![Build](https://github.com/arjunraghurama/pacs-data-migration-tool/workflows/CI%20pipeline/badge.svg)
 
 ## Abstract 
